@@ -1,2 +1,2 @@
 # Lagoona
-Hotel
+Hoteli
